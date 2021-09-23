@@ -1,0 +1,4 @@
+------------------------base Href build----------------------------
+ng build --base-href="/name/"
+
+ng generate module app-routing --flat -module=app

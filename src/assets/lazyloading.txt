@@ -1,0 +1,9 @@
+main.js : contains minified code
+
+polyfills.js : contains pollyfill scripts needed to ensure our application runs in all modern browsers
+
+runtimejs : is a small file that is needed to load other files
+
+styles.js : bundle contains our styles
+
+vendor.js : bundle contains any libraries imported into our application, including angular libraries and the angular compiler
